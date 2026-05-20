@@ -1,5 +1,9 @@
 ## Hi there 👋
+<h2>🚀 Tech Stack</h2>
 
+<p>
+<img src="https://skillicons.dev/icons?i=python,flutter,firebase,c,html,css"/>
+</p>
 <!--
 **simran-nitj/simran-nitj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
