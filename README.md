@@ -4,6 +4,7 @@
 <p>
 <img src="https://skillicons.dev/icons?i=python,flutter,firebase,c,html,css"/>
 </p>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Flutter+Developer;Hackathon+Enthusiast&center=true&width=500&height=50">
 <!--
 **simran-nitj/simran-nitj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
