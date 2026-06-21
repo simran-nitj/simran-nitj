@@ -64,7 +64,7 @@ hobbies:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-nitj&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -90,7 +90,6 @@ hobbies:
 
 - Master React & Frontend Development
 - Contribute to Open Source Projects
-- Build and Launch Xplore
 - Strengthen DSA & Problem Solving Skills
 - Learn System Design
 
