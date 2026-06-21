@@ -1,30 +1,148 @@
-## Hi there 👋
-<h1 align="center">Hey 👋 I'm Simran</h1>
+<div align="center">
 
-<h3 align="center">
-Web Developer • Java Programmer • UI/UX Designer
-</h3>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Cool+Web+Experiences;Java+Developer;UI%2FUX+Designer;Hackathon+Builder&center=true&width=600&height=50">
-</p>
-<h2>Tech Stack</h2>
+# Hi 👋, I'm Simran Maurya
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Data+Science+Student+%40+NIT+Jalandhar;Frontend+Developer+%7C+UI%2FUX+Designer;Hackathon+Enthusiast+%7C+Problem+Solver;Building+Xplore+for+Student+Communities" alt="Typing SVG" />
+
+</div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,html,css,js,react,mysql,figma,git,github,vscode"/>
+  <img src="https://img.shields.io/badge/College-NIT%20Jalandhar-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Branch-Data%20Science-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Punjab%2C%20India-green?style=for-the-badge" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=120&section=header"/>
-<!--
-**simran-nitj/simran-nitj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ⚡ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```yaml
+name: Simran Maurya
+education: B.Tech Data Science @ NIT Jalandhar
+
+interests:
+  - Web Development
+  - UI/UX Design
+  - Competitive Programming
+  - Open Source
+  - Startups
+
+currently_learning:
+  - React
+  - Tailwind CSS
+  - Firebase
+  - Flutter
+  - System Design
+
+working_on:
+  - Xplore (Student Community Platform)
+
+hobbies:
+  - Designing
+  - Painting
+  - Music
+  - Exploring New Technologies
+```
+
+---
+
+## 🚀 Featured Project
+
+### Xplore
+
+A platform designed to connect college students with clubs, events, opportunities, and communities.
+
+✨ Features:
+- Club Discovery
+- Event Management
+- Student Networking
+- AI-powered Recommendations
+- Community Building
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,python,mysql,firebase,git,github,vscode,figma" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%" />
+
+---
+
+## 🎯 Current Goals
+
+- Master React & Frontend Development
+- Contribute to Open Source Projects
+- Build and Launch Xplore
+- Strengthen DSA & Problem Solving Skills
+- Learn System Design
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/simran-nitj">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:simrang2209@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="www.linkedin.com/in/simran-m-2209nitj">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ✨ Turning Ideas Into Impact
+
+*"The best way to predict the future is to build it."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=120&section=footer"/>
