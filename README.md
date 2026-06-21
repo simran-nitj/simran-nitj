@@ -46,36 +46,15 @@ hobbies:
 
 ---
 
-## 🚀 Featured Project
 
-### Xplore
-
-A platform designed to connect college students with clubs, events, opportunities, and communities.
-
-✨ Features:
-- Club Discovery
-- Event Management
-- Student Networking
-- AI-powered Recommendations
-- Community Building
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,python,mysql,firebase,git,github,vscode,figma" />
-</p>
-
----
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=simran-nitj&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=simran-nitj&theme=tokyonight&hide_border=true"/>
 
 </div>
 
