@@ -23,7 +23,6 @@ education: B.Tech Data Science @ NIT Jalandhar
 interests:
   - Web Development
   - UI/UX Design
-  - Competitive Programming
   - Open Source
   - Startups
 
@@ -31,11 +30,7 @@ currently_learning:
   - React
   - Tailwind CSS
   - Firebase
-  - Flutter
   - System Design
-
-working_on:
-  - Xplore (Student Community Platform)
 
 hobbies:
   - Designing
