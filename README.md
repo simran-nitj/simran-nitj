@@ -117,14 +117,6 @@ hobbies:
 
 <div align="center">
 
-### ✨ Turning Ideas Into Impact
-
-*"The best way to predict the future is to build it."*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=120&section=footer"/>
-
 ## 🐍 Contribution Snake
 
 <picture>
@@ -137,3 +129,13 @@ hobbies:
   <img alt="github contribution snake"
     src="https://raw.githubusercontent.com/simran-nitj/simran-nitj/output/github-contribution-grid-snake.svg">
 </picture>
+
+### ✨ Turning Ideas Into Impact
+
+*"The best way to predict the future is to build it."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=120&section=footer"/>
+
+
