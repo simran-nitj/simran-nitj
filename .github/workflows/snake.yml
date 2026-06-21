@@ -19,7 +19,6 @@ steps:
     with:
       github_user_name: simran-nitj
       outputs: |
-        dist/github-contribution-grid-snake.svg
         dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
   - name: Push to output branch
